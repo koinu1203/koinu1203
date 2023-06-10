@@ -67,21 +67,21 @@
 </h3>
 <div align="center" style="margin-bottom:20px;">
 
-<a href="https://github.com/E-GOProyect" target="_blank">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=E-GOProyect&repo=EGO-FrontEnd&theme=dark" alt="EGO Front" />
+<a href="https://github.com/E-GOProyect/EGO-FrontEnd" target="_blank">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=E-GOProyect&repo=EGO-FrontEnd&theme=white" alt="EGO Front" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/TK-CHAT/TKCHAT_BACKEND" target="_blank">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=TK-CHAT&repo=TKCHAT_BACKEND&theme=dark" alt="TKCHAT API" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=TK-CHAT&repo=TKCHAT_BACKEND&theme=white" alt="TKCHAT API" />
 </a>
   
 </div> 
 <div align="center" style="margin-bottom:60px;">
 
 <a href="https://github.com/koinu1203/PokeList" target="_blank">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=koinu1203&repo=PokeList&theme=dark" alt="Poke List" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=koinu1203&repo=PokeList&theme=white" alt="Poke List" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/koinu1203/GenReports-Tkambio-front" target="_blank">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=koinu1203&repo=GenReports-Tkambio-front&theme=dark" alt="Report Generator Tkambio" />
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=koinu1203&repo=GenReports-Tkambio-front&theme=white" alt="Report Generator Tkambio" />
 </a>
   
 </div> 
@@ -103,30 +103,3 @@
     </a>
 </div> 
 
-
-<!-- <a href="https://github.com/DiegoSullon/FoxbelMusic" target="_blank">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoSullon&repo=FoxbelMusic&theme=dark" alt="FoxbelMusic" />
-</a>
-<a href="https://github.com/DiegoSullon/UPN-ThreeJS" target="_blank">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=DiegoSullon&repo=UPN-ThreeJS&theme=dark" alt="UPN MODEL 3D" />
-</a> -->
-
-<!-- <h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/react.png" alt=react width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/jquery.png" alt=jquery width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/babel.png" alt=babel width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/node.png" alt=nodejs width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mongo.png" alt=mongodb width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/mysql.png" alt=mysql width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/yarn.png" alt=yarn width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-
- 
-</p> -->
